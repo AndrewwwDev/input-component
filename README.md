@@ -1,5 +1,25 @@
 # InputComponent
 
+# Angular Tailwind CSS
+
+<h1 align="center">Input component</h1>
+
+<div align="center">
+  <h3>
+    <a href="https://input-component-3844a.web.app/">
+      Solution
+    </a>
+    <span> | </span>
+    <a href="https://github.com/AndrewwwDev/input-component">
+      Repository
+    </a>
+    <span> | </span>
+    <a href="https://legacy.devchallenges.io/challenges/TSqutYM4c5WtluM7QzGp">
+      Challenge
+    </a>
+  </h3>
+</div>
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
 
 ## Development server
